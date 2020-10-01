@@ -1,4 +1,4 @@
-# Gitbook integration tests framework
+# Gitbook integration tests framework is an amazing repo
 
 [![Build Status](https://travis-ci.org/todvora/gitbook-tester.svg?branch=master)](https://travis-ci.org/todvora/gitbook-tester)
 [![Coverage Status](https://coveralls.io/repos/github/todvora/gitbook-tester/badge.svg?branch=master)](https://coveralls.io/github/todvora/gitbook-tester?branch=master)
